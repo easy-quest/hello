@@ -1,1 +1,4 @@
 https://golangify.com/input-keyboard
+https://golangify.com/write-to-stdout-stderr # lesson2
+https://golangify.com/open-file # lesson3
+https://golangify.com/reading-file-into-string #lesson4
